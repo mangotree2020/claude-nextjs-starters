@@ -1,0 +1,16 @@
+[     173ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/0nm0_next_dist_0ufyuko._.js:2477
+[     199ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/0nm0_next_dist_0ufyuko._.js:2477
+[   75026ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/0nm0_next_dist_0ufyuko._.js:2477
+[   75040ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/0nm0_next_dist_0ufyuko._.js:2477
+[   75783ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/0nm0_next_dist_0ufyuko._.js:2477
+[   75803ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/0nm0_next_dist_0ufyuko._.js:2477
+[   76577ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/0nm0_next_dist_0ufyuko._.js:2477
+[   76591ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/0nm0_next_dist_0ufyuko._.js:2477
+[   77555ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/0nm0_next_dist_0ufyuko._.js:2477
+[   77569ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/0nm0_next_dist_0ufyuko._.js:2477
+[   79527ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/0nm0_next_dist_0ufyuko._.js:2477
+[   79549ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/0nm0_next_dist_0ufyuko._.js:2477
+[   93039ms] [LOG] {name: 관리자, email: admin@example.com, company: 스타터킷} @ http://localhost:3000/_next/static/chunks/0nm0_next_dist_0ufyuko._.js:2477
+[   97687ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ http://localhost:3000/dashboard/settings:0
+[   97687ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ http://localhost:3000/dashboard/settings:0
+[   97687ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ http://localhost:3000/dashboard/settings:0
