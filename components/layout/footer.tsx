@@ -22,7 +22,7 @@ export function Footer() {
             <h3 className='text-sm font-semibold text-foreground'>제품</h3>
             <ul className='mt-4 space-y-3'>
               {footerLinks.product.map((link) => (
-                <li key={link.href}>
+                <li key={link.label}>
                   <Link
                     href={link.href}
                     className='text-sm text-muted-foreground transition-colors hover:text-foreground'
@@ -38,7 +38,7 @@ export function Footer() {
             <h3 className='text-sm font-semibold text-foreground'>회사</h3>
             <ul className='mt-4 space-y-3'>
               {footerLinks.company.map((link) => (
-                <li key={link.href}>
+                <li key={link.label}>
                   <Link
                     href={link.href}
                     className='text-sm text-muted-foreground transition-colors hover:text-foreground'
@@ -54,7 +54,7 @@ export function Footer() {
             <h3 className='text-sm font-semibold text-foreground'>법적 고지</h3>
             <ul className='mt-4 space-y-3'>
               {footerLinks.legal.map((link) => (
-                <li key={link.href}>
+                <li key={link.label}>
                   <Link
                     href={link.href}
                     className='text-sm text-muted-foreground transition-colors hover:text-foreground'
