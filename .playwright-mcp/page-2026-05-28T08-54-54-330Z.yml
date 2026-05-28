@@ -1,0 +1,72 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - complementary [ref=e3]:
+      - button "사이드바 접기" [ref=e5]:
+        - img
+      - navigation [ref=e9]:
+        - link "대시보드" [ref=e10] [cursor=pointer]:
+          - /url: /dashboard
+          - img [ref=e11]
+          - text: 대시보드
+        - link "분석" [ref=e16] [cursor=pointer]:
+          - /url: /dashboard/analytics
+          - img [ref=e17]
+          - text: 분석
+        - link "사용자" [ref=e19] [cursor=pointer]:
+          - /url: /dashboard/users
+          - img [ref=e20]
+          - text: 사용자
+        - link "설정" [ref=e25] [cursor=pointer]:
+          - /url: /dashboard/settings
+          - img [ref=e26]
+          - text: 설정
+    - generic [ref=e29]:
+      - banner [ref=e30]:
+        - generic [ref=e31]:
+          - link "스타터킷" [ref=e32] [cursor=pointer]:
+            - /url: /
+          - navigation "breadcrumb" [ref=e33]:
+            - list [ref=e34]:
+              - listitem [ref=e35]:
+                - link "대시보드" [ref=e36] [cursor=pointer]:
+                  - /url: /dashboard
+              - listitem [ref=e37]:
+                - img [ref=e38]
+              - listitem [ref=e40]:
+                - link "설정" [disabled] [ref=e41]
+        - generic [ref=e42]:
+          - button "알림" [ref=e43]:
+            - img
+          - button "테마 전환" [ref=e44]:
+            - img
+          - generic [ref=e46] [cursor=pointer]: 관리
+      - main [ref=e47]:
+        - generic [ref=e48]:
+          - generic [ref=e51]:
+            - heading "설정" [level=1] [ref=e52]
+            - paragraph [ref=e53]: 계정 및 서비스 설정을 관리합니다.
+          - generic [ref=e54]:
+            - tablist [ref=e55]:
+              - tab "일반" [selected] [ref=e56]
+              - tab "알림" [ref=e57]
+              - tab "보안" [ref=e58]
+            - tabpanel "일반" [ref=e59]:
+              - generic [ref=e60]:
+                - generic [ref=e61]:
+                  - generic [ref=e62]: 프로필 정보
+                  - generic [ref=e63]: 공개 프로필 정보를 수정합니다.
+                - generic [ref=e65]:
+                  - generic [ref=e66]:
+                    - generic [ref=e67]: 이름
+                    - textbox "이름" [ref=e68]: 관리자
+                  - generic [ref=e69]:
+                    - generic [ref=e70]: 이메일
+                    - textbox "이메일" [ref=e71]: admin@example.com
+                  - generic [ref=e72]:
+                    - generic [ref=e73]: 회사 (선택)
+                    - textbox "회사 (선택)" [ref=e74]: 스타터킷
+                  - button "변경사항 저장" [ref=e75]
+  - region "Notifications alt+T"
+  - button "Open Next.js Dev Tools" [ref=e81] [cursor=pointer]:
+    - img [ref=e82]
+  - alert [ref=e85]
